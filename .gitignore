@@ -1,0 +1,10 @@
+# Ignore the local SQLite database files
+*.db
+*.db-journal
+
+# Ignore downloaded image folders
+nasa_images/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
